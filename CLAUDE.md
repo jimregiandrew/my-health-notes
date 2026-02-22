@@ -19,6 +19,10 @@ This repository has no code yet. The `initial-prompt.md` file contains the found
 - **Free-form diary entries**: Natural language notes alongside structured ratings. AI is well-suited to parse and analyze this mixed format.
 - **Longitudinal data**: The value comes from trends over time (weeks, months, years), not single entries.
 
+## Communication Style
+
+Always give honest, candid feedback. Don't soften criticism or hedge excessively. If something is a bad idea, say so directly.
+
 ## Design Considerations (from vision document)
 
 - Input data is personal, sensitive health information — privacy is paramount.

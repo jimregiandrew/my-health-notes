@@ -14,21 +14,37 @@ These notes are owned by the individual, readable by humans, analyzable by machi
 
 ## Why this matters
 
-Conditions like Long Covid, ME/CFS, IBS, POTS, and other "invisible illnesses" share a frustrating problem: medicine doesn't understand them well. This is in part a data problem — the kind of longitudinal, day-to-day patient data needed to understand these conditions is almost entirely absent from medical science. Short clinical appointments can't capture it. No app platform has accumulated it at the necessary scale and depth.
+Conditions like Long Covid, ME/CFS, IBS, POTS, and other "invisible illnesses" share a frustrating problem: medicine doesn't understand them well, and some doctors don't think they are "real" illnesses. This is in part a data problem — the kind of longitudinal, day-to-day patient data needed to understand these conditions is almost entirely absent from medical science. Short clinical appointments can't capture it. No app platform has accumulated it at the necessary scale and depth.
+
+I have had 2 (at least) experiences where recording my personal health notes has really helped me (see below). So health notes can really help the individual. Imagine how they can help science and medicine if thousands or millions of people record such notes. I believe that they can move the dial on these otherwise intractable illnesses.
 
 Some doctors and health care professionals are knowledable and amazing with such illnesses - typically those who had many patients with the illness. However, a significant proportion of doctors — and the general public — still don't fully accept that these are real, physical illnesses. Patients are often dismissed or sent home to cope. More and better data won't fix every attitude, but it is probably the most powerful thing that could change the picture: hard to dismiss a pattern that shows up across millions of people's lived experience.
 
-Longitudinal patient data — daily self-observations over months and years — will help to understand these conditions, identify triggers, and accelerate research. If millions of people maintained their own health notes, and opted in to sharing them with researchers, that data would exist. AI can analyse free-form, heterogeneous data at scale. Hidden patterns — subtypes, common triggers, delayed effects, trajectories — could emerge from data that medicine currently can't even collect.
+Longitudinal patient data — daily self-observations over months and years — will help to understand these conditions, identify triggers, and accelerate research. If millions of people maintained their own health notes, and opted in to sharing them with researchers, that data would exist. AI can analyse free-form, heterogeneous data at scale. Hidden patterns — subtypes, common triggers, delayed effects, trajectories — could emerge from data that medicine currently can't even collect. AI is showing incredible progress in the programming field, if half that progress makes it to data analysis it will be a game changer for medicine *if* we have the data!
 
 ## A personal example
 
-I've had Long Covid since early 2024. For almost all of 2024 I couldn't walk 50 metres to our letterbox without overexerting myself. (Mercifully I am much improved since 2024).
+### Case 1
 
-Almost from the start, I kept a simple fatigue diary. After a couple of months into 2024 I had a nagging suspicion that overexertion was a big problem — but I couldn't detect it in the moment, and I didn't have a name for what was happening. It took six months to find a clinician (a cardio-respiratory physiotherapist), via the ME Support charity, who knew about Post-Exertional Malaise (PEM). When I learned about PEM, a light went on. Looking back at my diary, the PEM events were obvious. I would have been significantly better off knowing this sooner.
+I've had Long Covid since early 2024. For almost all of 2024 I couldn't walk 50 metres to our letterbox without overexerting myself. Mercifully I am much improved since 2024.
+
+Almost from the start, I kept a simple fatigue diary. After a couple of months into 2024 I had a nagging suspicion that overexertion was a big problem — but I couldn't detect it in the moment, and I didn't have a name for what was happening. But the data clealy showed significant events where my fatigue spiked (my health plummeted) and it took weeks or months to recover from the spike. The problem was that I was re-inventing the wheel. PEM is a known thing, at least by the doctors who have experience with ME/CFS or similar. I first heard about PEM from the charity ME Support. And they put me onto a clinician (a cardio-respiratory physiotherapist) who knew how to work with Post-Exertional Malaise (PEM). When I learned about PEM I was both happy to have my suspicion confirmed but upset that no health doctors had told me about this before. I would have been significantly better off knowing this sooner.
 
 The knowledge that helped me most didn't come from medicine. It came from the ME/CFS patient community, who had been living this long before Covid. That community's hard-won experience reached me through informal channels — not through clinical literature or the doctors I saw in my first six months.
 
 This is precisely the kind of knowledge that better data could surface faster, and disseminate more widely.
+
+### Case 2
+
+In December 2024 I had an informal referral to a holistic doctor. The doctor advised me to go on a 5-day water (and electrolyte) only fast. CAVEAT: fasting like this is demanding. It has made some people with Long Covid a lot sicker. But it has also helped many people.
+
+I swalllowed hard and tried the fast. My heart rate rose during the fast, but dropped 2 beats a day for 7 says straight after the fast and was well below that of pre-fast. After 5 weeks my energy levels (physically) were doubled as compared to pre-fast, and I was swimming (gently) in the sea with my daughters for the first time in over a year. In 2025 I steadily improved through the fist 6 months to where I could get to work, and do ~75% of a 40hr week. I haven't fully recovered (When I get sick I get a lot sicker than usual, the mental fatigue limits are far less improved) but I am so much better.
+
+Was it the fast ? (I've done 2 more now when I felt the fatigue coming back after the flu/bad cold). It looks and feels like it to me from my data. But that's not scientific certainty, and most doctors look at me sceptically whey I tell them. There is some scientific evidence that it helps and I've noted more acticles appearing recently. E.g. see an Internet search for 
+
+> long term fast for Long Covid
+
+and e.g. https://pmc.ncbi.nlm.nih.gov/articles/PMC10651743/. But so far it's exploratory only. The only way to answer this question properly is supposedly with a massive double blind random controlled trial. I'd argue that a far less controlled but massive data set (my health notes from 1000's of people) could also answer this question - or at least provide such strong evidence that it can't be ignored.
 
 ## The idea
 

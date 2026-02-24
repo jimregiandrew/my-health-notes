@@ -44,7 +44,7 @@ Was it the fast ? (I've done 2 more now when I felt the fatigue coming back afte
 
 > long term fast for Long Covid
 
-and e.g. https://pmc.ncbi.nlm.nih.gov/articles/PMC10651743/. But so far it's exploratory only. The only way to answer this question properly is supposedly with a massive double blind random controlled trial. I'd argue that a far less controlled but massive data set (my health notes from 1000's of people) could also answer this question - or at least provide such strong evidence that it can't be ignored.
+and e.g. https://pmc.ncbi.nlm.nih.gov/articles/PMC10651743/. But so far it's exploratory only. The only way to answer this question properly is supposedly with a massive double blind random controlled trial. I'd argue that a far less controlled but massive data set (my health notes from 1000's of people) could also answer this question - or at least provide such strong evidence that it can't be ignored. And probably shed light on why it can make some people sicker.
 
 ## The idea
 
@@ -103,7 +103,13 @@ It is not intended to store anyone's real personal health data.
 
 ## Contributing
 
-Contributions welcome: improved formats, analysis scripts, tooling that lowers the barrier to entry, ethical guidelines. Please do not submit real personal health data.
+Contributions welcome: improved formats, analysis scripts, tooling that lowers the barrier to entry, ethical guidelines. 
+
+Privacy is the biggest issue. PAT's could be used to grant read-only access to trusted entities. And things like trusted execution environments (TEE) could be used. Data anonymity would be sufficient for me at least. A git archive does seem to be fundamentally incompatible with strong privacy guarantees. But this approach offers significant advantages (ownership is at the individual / parent level; incremental sync, longitudinal consistency), and maybe a anonymity is sufficient.
+
+Data first (private so no disclosure). Privacy under restricted access later.
+
+Please do not submit real personal health data.
 
 ## Final thought
 

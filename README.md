@@ -105,7 +105,7 @@ It is not intended to store anyone's real personal health data.
 
 Contributions welcome: improved formats, analysis scripts, tooling that lowers the barrier to entry, ethical guidelines. 
 
-Privacy is the biggest issue. PAT's could be used to grant read-only access to trusted entities. And things like trusted execution environments (TEE) could be used. Data anonymity would be sufficient for me at least. A git archive does seem to be fundamentally incompatible with strong privacy guarantees. But this approach offers significant advantages (ownership is at the individual / parent level; incremental sync, longitudinal consistency), and maybe a anonymity is sufficient.
+Privacy is the biggest issue. PAT's could be used to grant read-only access to trusted entities. And things like trusted execution environments (TEE) could be used. Data anonymity would be sufficient for me at least. A git archive does seem to be fundamentally incompatible with strong privacy guarantees. But this approach offers significant advantages (ownership is at the individual / parent level; incremental sync, longitudinal consistency), and maybe anonymity is sufficient.
 
 Data first (private so no disclosure). Privacy under restricted access later.
 
